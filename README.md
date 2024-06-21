@@ -1,0 +1,3 @@
+# INTERNET-OF-CHAINS
+Embedded blockchain refers to the integration of blockchain technology into resource-constrained devices, often used in the Internet of Things (IoT) realm. These devices typically have limited processing power, storage capacity, and battery life.
+The internet revolutionized communication and information sharing. Now, imagine a future where physical objects themselves are connected, securely communicating and interacting with each other. This interconnected world of devices is the Internet of Things (IoT). But what if we could add a layer of trust and transparency to this network? Enter the exciting realm of the Internet of Chains, where blockchain technology meets the IoT.
